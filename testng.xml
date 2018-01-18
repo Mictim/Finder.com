@@ -1,0 +1,7 @@
+<suite name="SampleSuite">
+<test name="Search By Name">
+    <classes>
+        <class name="PositiveTests"/>
+    </classes>
+</test>
+</suite>
